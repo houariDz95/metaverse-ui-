@@ -1,4 +1,3 @@
-'use client';
 import { motion } from "framer-motion";
 import { textVariant2, textContainer } from "../utils/motion";
 export const TypingText = ({title, textStyles}) => (
